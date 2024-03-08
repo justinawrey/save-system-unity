@@ -1,0 +1,14 @@
+{
+  "name": "com.blueoyster.save-system-unity",
+  "version": "0.1.0",
+  "description": "Simple save system for Unity.",
+  "displayName": "save-system-unity",
+  "dependencies": {
+    "com.blueoyster.json-persistence-unity": "1.0.0"
+  },
+  "author": {
+    "name": "Justin Awrey",
+    "email": "justin@justinawrey.com",
+    "url": "https://justinawrey.com"
+  }
+}

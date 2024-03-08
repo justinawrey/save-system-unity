@@ -1,0 +1,16 @@
+{
+    "name": "BlueOyster.save-system-unity",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e945f39cb4e13435d8093afe6bb554d8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
